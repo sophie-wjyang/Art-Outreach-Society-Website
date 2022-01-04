@@ -1,6 +1,8 @@
 # Art-Outreach-Society-Website
 
-A landing page for MGCI's art-based community service club, Art Outreach Society, to document their projects and initiatives. 
+Art Outreach Society is a student-run non-profit organization revolving around art-based initiatives. Their mission is to give back to the local and global community, cultivate social and environmental change through the arts, and provide mentorship, share ideas, create connections, and empower young artists. 
+
+A landing page created for Marc Garneau Collegiate Institutes's Art Outreach Society to document their projects and initiatives. 
 
 
 
